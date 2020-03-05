@@ -1,0 +1,10 @@
+/Users/Rborchers/Desktop/DotNetExamples/NumbersInCSharpe/bin/Debug/netcoreapp3.1/NumbersInCSharpe.deps.json
+/Users/Rborchers/Desktop/DotNetExamples/NumbersInCSharpe/bin/Debug/netcoreapp3.1/NumbersInCSharpe.runtimeconfig.json
+/Users/Rborchers/Desktop/DotNetExamples/NumbersInCSharpe/bin/Debug/netcoreapp3.1/NumbersInCSharpe.runtimeconfig.dev.json
+/Users/Rborchers/Desktop/DotNetExamples/NumbersInCSharpe/bin/Debug/netcoreapp3.1/NumbersInCSharpe.dll
+/Users/Rborchers/Desktop/DotNetExamples/NumbersInCSharpe/bin/Debug/netcoreapp3.1/NumbersInCSharpe.pdb
+/Users/Rborchers/Desktop/DotNetExamples/NumbersInCSharpe/obj/Debug/netcoreapp3.1/NumbersInCSharpe.csprojAssemblyReference.cache
+/Users/Rborchers/Desktop/DotNetExamples/NumbersInCSharpe/obj/Debug/netcoreapp3.1/NumbersInCSharpe.AssemblyInfoInputs.cache
+/Users/Rborchers/Desktop/DotNetExamples/NumbersInCSharpe/obj/Debug/netcoreapp3.1/NumbersInCSharpe.AssemblyInfo.cs
+/Users/Rborchers/Desktop/DotNetExamples/NumbersInCSharpe/obj/Debug/netcoreapp3.1/NumbersInCSharpe.dll
+/Users/Rborchers/Desktop/DotNetExamples/NumbersInCSharpe/obj/Debug/netcoreapp3.1/NumbersInCSharpe.pdb

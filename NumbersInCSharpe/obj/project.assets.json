@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Rborchers/Desktop/DotNet/NumbersInCSharp/NumnbersInCSharp.csproj",
-      "projectName": "NumnbersInCSharp",
-      "projectPath": "/Users/Rborchers/Desktop/DotNet/NumbersInCSharp/NumnbersInCSharp.csproj",
+      "projectUniqueName": "/Users/Rborchers/Desktop/DotNetExamples/NumbersInCSharpe/NumbersInCSharpe.csproj",
+      "projectName": "NumbersInCSharpe",
+      "projectPath": "/Users/Rborchers/Desktop/DotNetExamples/NumbersInCSharpe/NumbersInCSharpe.csproj",
       "packagesPath": "/Users/Rborchers/.nuget/packages/",
-      "outputPath": "/Users/Rborchers/Desktop/DotNet/NumbersInCSharp/obj/",
+      "outputPath": "/Users/Rborchers/Desktop/DotNetExamples/NumbersInCSharpe/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/Rborchers/.nuget/NuGet/NuGet.Config"
