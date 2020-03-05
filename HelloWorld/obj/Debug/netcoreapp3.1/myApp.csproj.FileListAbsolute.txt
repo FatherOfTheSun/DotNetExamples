@@ -1,0 +1,10 @@
+/Users/Rborchers/Desktop/DotNet/myApp/bin/Debug/netcoreapp3.1/myApp.deps.json
+/Users/Rborchers/Desktop/DotNet/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.json
+/Users/Rborchers/Desktop/DotNet/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.dev.json
+/Users/Rborchers/Desktop/DotNet/myApp/bin/Debug/netcoreapp3.1/myApp.dll
+/Users/Rborchers/Desktop/DotNet/myApp/bin/Debug/netcoreapp3.1/myApp.pdb
+/Users/Rborchers/Desktop/DotNet/myApp/obj/Debug/netcoreapp3.1/myApp.csprojAssemblyReference.cache
+/Users/Rborchers/Desktop/DotNet/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfoInputs.cache
+/Users/Rborchers/Desktop/DotNet/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfo.cs
+/Users/Rborchers/Desktop/DotNet/myApp/obj/Debug/netcoreapp3.1/myApp.dll
+/Users/Rborchers/Desktop/DotNet/myApp/obj/Debug/netcoreapp3.1/myApp.pdb
