@@ -1,0 +1,10 @@
+/Users/Rborchers/Desktop/DotNetExamples/BranchyLoops/bin/Debug/netcoreapp3.1/BranchyLoops.deps.json
+/Users/Rborchers/Desktop/DotNetExamples/BranchyLoops/bin/Debug/netcoreapp3.1/BranchyLoops.runtimeconfig.json
+/Users/Rborchers/Desktop/DotNetExamples/BranchyLoops/bin/Debug/netcoreapp3.1/BranchyLoops.runtimeconfig.dev.json
+/Users/Rborchers/Desktop/DotNetExamples/BranchyLoops/bin/Debug/netcoreapp3.1/BranchyLoops.dll
+/Users/Rborchers/Desktop/DotNetExamples/BranchyLoops/bin/Debug/netcoreapp3.1/BranchyLoops.pdb
+/Users/Rborchers/Desktop/DotNetExamples/BranchyLoops/obj/Debug/netcoreapp3.1/BranchyLoops.csprojAssemblyReference.cache
+/Users/Rborchers/Desktop/DotNetExamples/BranchyLoops/obj/Debug/netcoreapp3.1/BranchyLoops.AssemblyInfoInputs.cache
+/Users/Rborchers/Desktop/DotNetExamples/BranchyLoops/obj/Debug/netcoreapp3.1/BranchyLoops.AssemblyInfo.cs
+/Users/Rborchers/Desktop/DotNetExamples/BranchyLoops/obj/Debug/netcoreapp3.1/BranchyLoops.dll
+/Users/Rborchers/Desktop/DotNetExamples/BranchyLoops/obj/Debug/netcoreapp3.1/BranchyLoops.pdb
