@@ -1,0 +1,10 @@
+/Users/Rborchers/Desktop/DotNetExamples/KeyCheck/obj/Debug/netcoreapp3.1/KeyCheck.csprojAssemblyReference.cache
+/Users/Rborchers/Desktop/DotNetExamples/KeyCheck/obj/Debug/netcoreapp3.1/KeyCheck.AssemblyInfoInputs.cache
+/Users/Rborchers/Desktop/DotNetExamples/KeyCheck/obj/Debug/netcoreapp3.1/KeyCheck.AssemblyInfo.cs
+/Users/Rborchers/Desktop/DotNetExamples/KeyCheck/bin/Debug/netcoreapp3.1/KeyCheck.deps.json
+/Users/Rborchers/Desktop/DotNetExamples/KeyCheck/bin/Debug/netcoreapp3.1/KeyCheck.runtimeconfig.json
+/Users/Rborchers/Desktop/DotNetExamples/KeyCheck/bin/Debug/netcoreapp3.1/KeyCheck.runtimeconfig.dev.json
+/Users/Rborchers/Desktop/DotNetExamples/KeyCheck/bin/Debug/netcoreapp3.1/KeyCheck.dll
+/Users/Rborchers/Desktop/DotNetExamples/KeyCheck/bin/Debug/netcoreapp3.1/KeyCheck.pdb
+/Users/Rborchers/Desktop/DotNetExamples/KeyCheck/obj/Debug/netcoreapp3.1/KeyCheck.dll
+/Users/Rborchers/Desktop/DotNetExamples/KeyCheck/obj/Debug/netcoreapp3.1/KeyCheck.pdb
