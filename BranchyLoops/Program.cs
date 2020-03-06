@@ -88,14 +88,89 @@ namespace BranchyLoops
                 Console.WriteLine("AnotherOrLoop The answer is not greater than 10");
                 Console.WriteLine("AnotherOrLoop the first number is not equal to the second");
             }
-
+        }
+        static void FourthLoop()
+        {
+            int counter = 0;
+            while (counter < 10)
+            {
+                Console.WriteLine($"Hello Count Dracula! The counter is {counter}");
+                counter++;
+            }
+            int backwards = 10;
+            while (backwards > 0)
+            {
+                Console.WriteLine($"Hello Count! Lets Count backwards {backwards}");
+                backwards--;
+            }
 
         }
+        static void FifthLoop()
+        {
+            for (int counter = 0; counter < 10; counter++)
+            {
+                Console.WriteLine($"Hello Count! The Counter is {counter}");
+            }
+        }
+        static void SixthLoop()
+        {
+            int sum = 0;
+            for (int number = 1; number < 21; number++)
+            {
+                if (number % 3 == 0)
+                {
+                    sum = sum + number;
+                }
+            }
+            Console.WriteLine($"The Summary is {sum}");
+
+        }
+
+        static void BooLoop()
+        {
+            bool condition = true;
+            if (condition)
+            {
+                Console.WriteLine("Variable is True");
+            }
+            else
+            {
+                Console.WriteLine("Variable is False");
+            }
+        }
+        static void IntBooLoop()
+        {
+            int m = 9;
+            int n = 18;
+
+            if (m > 10)
+            {
+                if (n > 20)
+                {
+                    Console.WriteLine("Result1");
+                }
+                else
+                {
+                    Console.WriteLine("Result2");
+                }
+            }
+            else
+            {
+                Console.WriteLine("Result3");
+            }
+        }
+
         static void Main(string[] args)
         {
             FirstLoop();
             SecondLoop();
             ThirdLoop();
+            FourthLoop();
+            FifthLoop();
+            SixthLoop();
+            BooLoop();
+            IntBooLoop();
+
 
         }
     }
