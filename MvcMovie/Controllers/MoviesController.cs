@@ -32,14 +32,14 @@ namespace MvcMovie.Controllers
             {
                 return NotFound();
             }
-
+            //match the route data or query string value
             var movie = await _context.Movie
                 .FirstOrDefaultAsync(m => m.Id == id);
             if (movie == null)
             {
                 return NotFound();
             }
-
+            //if found returns details
             return View(movie);
         }
 
@@ -78,6 +78,8 @@ namespace MvcMovie.Controllers
             {
                 return NotFound();
             }
+
+            //if found passed details
             return View(movie);
         }
 
