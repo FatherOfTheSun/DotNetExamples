@@ -25,11 +25,13 @@ namespace MvcMovie.Controllers
         {
             var movies = from m in _context.Movie
                          select m;
+
+            ///if  searchstring is string movies modified to filter value of searchstring
             if (!String.IsNullOrEmpty(searchString))
             {
                 movies = movies.Where(s => s.Title.Contains(searchString));
             }
-            return View(await _context.Movie.ToListAsync());
+            return View(await movies.ToListAsync());
         }
 
         // GET: Movies/Details/5
